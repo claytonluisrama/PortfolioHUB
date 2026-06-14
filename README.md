@@ -5,7 +5,7 @@ O PortfolioHUB é uma plataforma centralizada desenvolvida para exibir e gerenci
 
 ## 🛠️ Funcionalidades e Implantação
 * **Hospedagem:** O projeto está integrado e acessível através do GitHub Pages.
-* **Segurança e Controle de Acesso:** Políticas rigorosas de segurança foram implementadas[cite: 1]. A branch principal (`main`) possui *Branch Protection Rules*, bloqueando commits diretos e exigindo revisões de código (Pull Requests) para garantir a integridade da plataforma.
+* **Segurança e Controle de Acesso:** Políticas rigorosas de segurança foram implementadas. A branch principal (`main`) possui *Branch Protection Rules*, bloqueando commits diretos e exigindo revisões de código (Pull Requests) para garantir a integridade da plataforma.
 * **Inteligência Artificial:** O planejamento, a configuração de políticas de segurança e a gestão de usuários foram estruturados utilizando o Google GEMINI como ferramenta de apoio e guia durante toda a implantação.
 
 ## 📂 Estrutura
